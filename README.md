@@ -4,5 +4,5 @@ The goal is to create a bank account management class with the following feature
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The underlying goal is to make a short introduction to object-oriented programming and to see key notions such as instantiation, attributes, methods,
+The underlying goal is to make a short introduction to object-oriented programming and to see key notions such as instantiation, attributes, methods etc.
 
